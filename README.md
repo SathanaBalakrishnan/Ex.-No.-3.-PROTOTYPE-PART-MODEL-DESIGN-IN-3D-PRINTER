@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Sathana B
+### Register Number:212225040389
+<img width="1917" height="1017" alt="Screenshot 2026-08-30 115335" src="https://github.com/user-attachments/assets/ea724f4f-c429-4b60-9cd8-00287a17d7ef" />
+
+<img width="1917" height="1018" alt="Screenshot 2026-08-30 115453" src="https://github.com/user-attachments/assets/968ddbe7-279e-4427-b447-b60a2d18b8f3" />
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
